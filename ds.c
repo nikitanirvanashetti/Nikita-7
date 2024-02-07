@@ -14,3 +14,6 @@ scanf("%d",&a[i]);
 void display() 
 {
 }
+void insert()
+{
+}
