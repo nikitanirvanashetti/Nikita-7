@@ -17,3 +17,6 @@ void display()
 void insert()
 {
 }
+void delete() 
+{
+}
