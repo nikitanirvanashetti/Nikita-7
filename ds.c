@@ -11,3 +11,6 @@ printf("enter %d array elements\n",n);
 for(i=0;i<n;i++)
 scanf("%d",&a[i]);
 }
+void display() 
+{
+}
