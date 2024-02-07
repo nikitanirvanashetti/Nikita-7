@@ -20,3 +20,6 @@ void insert()
 void delete() 
 {
 }
+void main()
+{
+}
