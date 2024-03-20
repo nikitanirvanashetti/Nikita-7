@@ -2,3 +2,4 @@ this file is named as git
 singly linked list
 doubly linked list
 Priority queue
+double ended priority queue
